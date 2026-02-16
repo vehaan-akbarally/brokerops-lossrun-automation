@@ -9,11 +9,6 @@ This app automates ingestion and validation of loss-run / bordereaux-style data 
 - Review tables for exceptions and validation output
 - Environment-aware configuration for safer runtime behavior
 
-## Tech stack
-- R
-- Shiny
-- (add your main packages here)
-
 ## Run locally
 1. Clone this repo
 2. Open R/RStudio in project folder
